@@ -1,8 +1,8 @@
 {
 	"name": "bankvn-app",
 	"version": "4.5.0",
-	"description": "Tinder",
-	"homepage": "https://Tinder",
+	"description": "GoiDi Manager",
+	"homepage": "https://GoiDiManager",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@gitlab.com/mob-banking/bank-plus-user.git"

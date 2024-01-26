@@ -15,7 +15,7 @@ const _nav = [
 	},
 	{
 		component: CNavTitle,
-		name: 'App',
+		name: '',
 	},
 	// {
 	// 	component: CNavItem,
@@ -43,31 +43,31 @@ const _nav = [
 	// },
 	{
 		component: CNavItem,
-		name: 'Users',
+		name: 'Quản lý tài khoản',
 		to: '/user',
 		icon: <FaUser size={24} className="nav-icon" />,
 	},
 	{
 		component: CNavItem,
-		name: 'Dishs',
+		name: 'Quản lý món ăn',
 		to: '/dish',
 		icon: <BiSolidDish size={24} className="nav-icon" />,
 	},
 	{
 		component: CNavItem,
-		name: 'Tables',
+		name: 'Quản lý bàn',
 		to: '/table',
 		icon: <GiTable size={24} className="nav-icon" />,
 	},
 	{
 		component: CNavItem,
-		name: 'Feedbacks',
+		name: 'Quản lý feedbacks',
 		to: '/feedback',
 		icon: <MdFeedback size={24} className="nav-icon" />,
 	},
 	{
 		component: CNavItem,
-		name: 'Revenue',
+		name: 'Doanh thu',
 		to: '/revenue',
 		icon: <MdFeedback size={24} className="nav-icon" />,
 	},
