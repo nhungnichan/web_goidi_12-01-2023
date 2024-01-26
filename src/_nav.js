@@ -5,7 +5,7 @@ import { FaUser, FaChartBar } from "react-icons/fa";
 import { GiTable } from "react-icons/gi";
 import { BiSolidDish } from "react-icons/bi";
 import { MdFeedback } from "react-icons/md";
-
+// import { Money } from "react-icons"
 import {
     cilUser,
 } from '@coreui/icons';
@@ -49,7 +49,7 @@ const _nav = [
 	},
 	{
 		component: CNavItem,
-		name: 'Dishs',
+		name: 'hihi',
 		to: '/dish',
 		icon: <BiSolidDish size={24} className="nav-icon" />,
 	},
